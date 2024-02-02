@@ -1,0 +1,14 @@
+/* * {
+    border: 1px solid limegreen
+} this is useful to SEE where the boxes are */
+
+.container {
+    max-width: 960px;
+    margin 0 auto; /*easy centering for elements with display block */
+}
+
+section {
+    min-height: 20vh; /* remember that vh is a percentage of the page*/
+    font-size: 200%;
+    text-align: center;
+}
